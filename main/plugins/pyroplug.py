@@ -1,4 +1,4 @@
-#Github.com-Vasusen-code
+#Github.com-Tashri2342
 
 import asyncio, time, os
 
